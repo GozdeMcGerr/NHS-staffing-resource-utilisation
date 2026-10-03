@@ -139,6 +139,10 @@ Telephone appointments increased following March 2020. Although face-to-face act
 
 During the busiest months, both face-to-face and telephone appointments increased, with face-to-face appointments showing the larger rise.
 
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/0a11b8992d7b6f5af73a583eb23f1d63ba3ed653/images/Changes%20in%20Appointment%20Mode.png)
+
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/0a11b8992d7b6f5af73a583eb23f1d63ba3ed653/images/Changes%20in%20Appointment%20Mode2.png)
+
 ### Service Settings and Regional Activity
 
 General Practice accounted for 91.5% of appointments.

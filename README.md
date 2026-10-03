@@ -103,6 +103,8 @@ The first COVID-19 lockdown in March 2020 was associated with a substantial decl
 
 Appointment activity subsequently fluctuated alongside changes in restrictions. Following the easing of restrictions in 2021, activity increased and reached approximately 30 million appointments during the busiest months, including October, November and March.
 
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/a26254af9b5f5df0c4ecf6c86ba81a07e01634d2/images/Capacity%20Utilisation.png)
+
 ### Capacity Utilisation
 
 Using a daily capacity threshold of 1.2 million appointments, demand exceeded the threshold on 52% of the 334 days analysed.

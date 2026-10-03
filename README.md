@@ -30,8 +30,6 @@ This project used publicly available NHS appointment datasets covering:
 
 Regional information was supplemented using publicly available health geography data from the Office for National Statistics.
 
-> **Note:** Add the exact name and link for the original NHS dataset here before publishing the completed repository.
-
 ## Tools and Technologies
 
 - Python
@@ -110,6 +108,8 @@ Appointment activity subsequently fluctuated alongside changes in restrictions. 
 Using a daily capacity threshold of 1.2 million appointments, demand exceeded the threshold on 52% of the 334 days analysed.
 
 Appointment demand was particularly high earlier in the week, with Tuesdays emerging as a peak day.
+
+https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/b74db4558e15c38f2e3eac077aa6f81031b88090/images/Capacity%20Utilisation.png
 
 ### Healthcare Professional Types
 

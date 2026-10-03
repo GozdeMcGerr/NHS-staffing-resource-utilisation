@@ -103,7 +103,7 @@ The first COVID-19 lockdown in March 2020 was associated with a substantial decl
 
 Appointment activity subsequently fluctuated alongside changes in restrictions. Following the easing of restrictions in 2021, activity increased and reached approximately 30 million appointments during the busiest months, including October, November and March.
 
-![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/a26254af9b5f5df0c4ecf6c86ba81a07e01634d2/images/Capacity%20Utilisation.png)
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/bffab4a62befc08c014eb129c13ce24977d9f6a7/images/Total%20Monthly%20Appointments.png)
 
 ### Capacity Utilisation
 
@@ -119,17 +119,23 @@ General Practitioners managed 51.1% of recorded appointments, while other practi
 
 Following the easing of COVID-19 restrictions, appointment activity increased for both groups. From August 2021, the increase for other practice staff was greater than the increase recorded for GPs.
 
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/bffab4a62befc08c014eb129c13ce24977d9f6a7/images/Professional%20Type.png)
+
 ### Attendance
 
 Overall, 91.3% of appointments were attended.
 
 The analysis identified a positive relationship between non-attended appointments and the busiest months, suggesting that increased demand may be associated with a higher number of missed appointments.
 
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/bffab4a62befc08c014eb129c13ce24977d9f6a7/images/Did%20Not%20Attended.png)
+
 ### Time Between Booking and Appointment
 
 Same-day appointments accounted for 44.3% of the analysed activity, while 20.5% of appointments took place between two and seven days after booking.
 
 The results indicate a strong demand for prompt access to consultations.
+
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/bffab4a62befc08c014eb129c13ce24977d9f6a7/images/Unattended%20Appointments%20by%20Waiting%20Time.png)
 
 ### Appointment Modes
 
@@ -141,8 +147,6 @@ During the busiest months, both face-to-face and telephone appointments increase
 
 ![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/0a11b8992d7b6f5af73a583eb23f1d63ba3ed653/images/Changes%20in%20Appointment%20Mode.png)
 
-![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/0a11b8992d7b6f5af73a583eb23f1d63ba3ed653/images/Changes%20in%20Appointment%20Mode2.png)
-
 ### Service Settings and Regional Activity
 
 General Practice accounted for 91.5% of appointments.
@@ -150,6 +154,8 @@ General Practice accounted for 91.5% of appointments.
 NHS North East and North Cumbria recorded the highest activity among the ICB areas examined, while the Midlands represented 19.39% of regional appointment activity.
 
 Unmapped service settings exceeded one million appointments from August 2021 and became the second-largest service-setting category. This may indicate an area requiring further data-quality investigation.
+
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/bffab4a62befc08c014eb129c13ce24977d9f6a7/images/Service%20Settings.png)
 
 ## Recommendations
 

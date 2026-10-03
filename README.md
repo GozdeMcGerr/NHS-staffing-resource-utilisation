@@ -113,6 +113,8 @@ Appointment demand was particularly high earlier in the week, with Tuesdays emer
 
 ![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/b74db4558e15c38f2e3eac077aa6f81031b88090/images/Capacity%20Utilisation.png)
 
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/6369ac9d0ec94f518a485ca85d12368f3398acd1/images/Total%20Appointments%20for%20the%20Days%20of%20the%20Week.png)
+
 ### Healthcare Professional Types
 
 General Practitioners managed 51.1% of recorded appointments, while other practice staff managed 45.7%.

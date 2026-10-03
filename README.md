@@ -109,7 +109,7 @@ Using a daily capacity threshold of 1.2 million appointments, demand exceeded th
 
 Appointment demand was particularly high earlier in the week, with Tuesdays emerging as a peak day.
 
-https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/b74db4558e15c38f2e3eac077aa6f81031b88090/images/Capacity%20Utilisation.png
+![image_alt](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/b74db4558e15c38f2e3eac077aa6f81031b88090/images/Capacity%20Utilisation.png)
 
 ### Healthcare Professional Types
 

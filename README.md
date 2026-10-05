@@ -187,9 +187,10 @@ Review the coding and completeness of service-setting information to understand 
 
 ## Project Files
 
-- `Gozde_McGerr_DA201_Assignment_Notebook.ipynb` – complete Python analysis
-- `README.md` – project overview, findings and recommendations
-- `images/` – selected charts and visualisations
+- [Project Report](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/16f13460f7a2a710bfd78eced2598118095c0a50/NHS_Report.pdf)
+- [Python Analysis Notebook](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/16f13460f7a2a710bfd78eced2598118095c0a50/NHS_Phyton.ipynb)
+- [Presentation](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/blob/16f13460f7a2a710bfd78eced2598118095c0a50/NHS_Presentation.pptx)
+- [Visualisations](https://github.com/GozdeMcGerr/NHS-staffing-resource-utilisation/tree/16f13460f7a2a710bfd78eced2598118095c0a50/images)
 
 ## Limitations
 
